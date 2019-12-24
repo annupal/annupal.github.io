@@ -15,7 +15,7 @@ setInterval(function() {
 
 if('serviceWorker' in navigator) {
   navigator.serviceWorker
-           .register('sw.js')
+           .register('https://annupal.github.io/app/sw.js')
            .then(function() { console.log('Service Worker Registered'); });
 }
 
