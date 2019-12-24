@@ -2,8 +2,8 @@
   "name": "HD Mobile Walls",
   "short_name": "Wallpapers",
   "theme_color": "#131313",
-  "background_color": "#2f2f2f",
-  "display": "minimal-ui",
+  "background_color": "#141a26",
+  "display": "standalone",
   
   "icons": [
     {
