@@ -3,7 +3,7 @@
   "short_name": "Share",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "fullscreen",
+  "display": "minimal-ui",
   "Scope": "https://www.sharetoany.com/",
   "start_url": "https://www.sharetoany.com/",
   "icons": [
