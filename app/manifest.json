@@ -1,11 +1,10 @@
 {
-  "name": "Share To Any",
-  "short_name": "Share",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "name": "HD Mobile Walls",
+  "short_name": "Wallpapers",
+  "theme_color": "#131313",
+  "background_color": "#2f2f2f",
   "display": "minimal-ui",
-  "Scope": "https://www.sharetoany.com/",
-  "start_url": "https://www.sharetoany.com/",
+  
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
