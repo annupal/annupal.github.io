@@ -12199,9 +12199,9 @@ const Du = L.memo(oT),
     sT = e => e ? Rg(e) : Rg,
     fi = {
         app: {
-            name: "react-blogger-template",
-            author: "itodev@proton.me",
-            github: "https://github.com/itokun99"
+            name: "rbt",
+            author: "annuplay@proton.me",
+            github: "https://github.com/"
         },
         blogger: {
             apiUrl: "https://www.googleapis.com/blogger/v3"
@@ -18428,7 +18428,7 @@ const WO = g.memo(HO),
     }, {
         id: 3,
         title: "Github",
-        url: "https://github.com/itokun99/react-template-blogger"
+        url: "https://github.com/"
     }, {
         id: 4,
         title: "References",
