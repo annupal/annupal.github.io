@@ -1,0 +1,240 @@
+{
+  "app": {
+    "author": "itodev@proton.me",
+    "defaultImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGsSFyhnLgbtsHbiRabmSq-AT7IyYY7fx9LHRlcKzYEMcQyvfUWod5RVqENW_lcYMQ8GBUi6OTDeaTy6nzaT2qe1obR5RN_Hiw__RpBDWSBovE1oXNFCzv2eIbr-eMSuBbAusQOp7lI5qPsbGoROLePlOlZFZzEsWvFlnJwBfvZC4Okwq0oUu7W3i35lo/s1600/no-image.jpg",
+    "logo": "https://lh3.googleusercontent.com/a/ACg8ocIYcT5CUSNOEtsR_MHKEXluVPat9YpJ-UzcdsWGC81V_-VkWDwBdg=s288-c-no"
+  },
+  "blogger": {
+    "blogId": "3455941072793988652",
+    "blogUrl": "https://anime-wallpapers-4k.blogspot.com/"
+  },
+  "google": {
+    "apiKey": "AIzaSyBw4UF0Ov9u_4RFHGBvF44b25VetujRb_g",
+    "cse": {
+      "url": "https://cse.google.com/cse.js?cx=735fcbab28c564967"
+    },
+    "firebase": {
+      "apiKey": "AIzaSyAhaBbk7lOJJtOi0hhoI6l24JD20aPOMXM",
+      "authDomain": "bgmflix-32beb.firebaseapp.com",
+      "projectId": "bgmflix-32beb",
+      "storageBucket": "bgmflix-32beb.firebasestorage.app",
+      "messagingSenderId": "30723974035",
+      "appId": "1:30723974035:web:7f9eccb96d1d8b880b7e66"
+    }
+  },
+  "disqus": {
+    "username": " "
+  },
+  "addThis": {
+    "id": " "
+  },
+  "menu": {
+    "header": [
+      {
+        "id": 1,
+        "title": "Latest",
+        "url": "/latest"
+      },
+      {
+        "id": 2,
+        "title": "Projects",
+        "url": "/projects"
+      },
+      {
+        "id": 3,
+        "title": "Services",
+        "url": "/services"
+      },
+      {
+        "id": 4,
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
+  },
+  "author": [
+    {
+      "id": " ",
+      "name": "anand",
+      "email": " ",
+      "title": "Front-End Developer",
+      "username": " ",
+      "nickname": "annu",
+      "profilePic": "https://lh3.googleusercontent.com/a/ACg8ocIYcT5CUSNOEtsR_MHKEXluVPat9YpJ-UzcdsWGC81V_-VkWDwBdg=s288-c-no",
+      "coverPic": "",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/",
+          "username": " "
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/",
+          "username": ""
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/",
+          "username": " "
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "name": "anand",
+      "email": " ",
+      "title": "Front-End Developer",
+      "username": " ",
+      "nickname": "annu",
+      "profilePic": "https://lh3.googleusercontent.com/a/ACg8ocIYcT5CUSNOEtsR_MHKEXluVPat9YpJ-UzcdsWGC81V_-VkWDwBdg=s288-c-no",
+      "coverPic": "",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/",
+          "username": " "
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/",
+          "username": " "
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/",
+          "username": " "
+        }
+      ]
+    }
+  ],
+  "sectionConfig": {
+    "homepage": {
+      "top": [
+        {
+          "id": 1,
+          "title": "New / Updated from Creator",
+          "type": "featured-post",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Our Templates",
+          "type": "labeled-post",
+          "data": {
+            "label": "Template"
+          },
+          "show": true
+        },
+        {
+          "id": 3,
+          "title": "Programming Tips",
+          "type": "labeled-post",
+          "data": {
+            "label": "Tutorial"
+          },
+          "show": true
+        }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Recently Published",
+          "type": "latest-post",
+          "show": true
+        }
+      ],
+      "side": [
+        {
+          "id": 1,
+          "title": "Ads Banner",
+          "type": "ads-banner",
+          "show": true,
+          "data": [
+            {
+              "id": 1,
+              "type": "single",
+              "image": "",
+              "url": "",
+              "content": ""
+            },
+            {
+              "id": 2,
+              "type": "multiple",
+              "data": [
+                {
+                  "id": 1,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 2,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 3,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 4,
+                  "image": "",
+                  "url": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ]
+    },
+    "postDetail": {
+      "side": [
+        {
+          "id": 3,
+          "title": "Related Posts",
+          "type": "related-post",
+          "show": true
+        },
+        {
+          "id": 4,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Blogger Post Detail",
+          "type": "blogger-post-detail",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Comment",
+          "type": "disqus-comment",
+          "show": true
+        }
+      ]
+    }
+  }
+}
